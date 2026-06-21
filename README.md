@@ -1,1 +1,1 @@
-#Faculty Timetable Management System
+Faculty Timetable Management System
